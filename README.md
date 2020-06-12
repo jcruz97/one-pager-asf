@@ -1,14 +1,26 @@
-# one-pager-asf by Jurgen Cruz
+ASF Belgium One-pager
+=====================
 One-pager for the international charitable association : Aviation sans frontières Belgique (ASF Belgium)
+
+**Done by : Jurgen Cruz**
+
+Useful links
+------------
 
 *__Real-website__* : https://asfbelgium.org/en
 
-My-version :
+*__My-version__* : 
 
-Done as part of the HTML course given @BeCode.
+Date
+----  
+06/2020  
+*Deadline* : 19/06/20   
 
-Date : 06/2020
-Deadline : 19/06/20   
+Instructions
+------------  
+https://github.com/becodeorg/CRL-Woods-3.21/blob/master/LearningPath/01-Prairie/05.HTML-CSS/3-exercice-html-basic.md
 
-Don't be afraid to ask if you have a hesitation on how I work on this website.
 
+Don't be afraid to ask if you have an hesitation on how I work on this website or for any problem encountered.
+
+### Done as part of the web-developper course @BeCode.
