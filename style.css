@@ -1,4 +1,4 @@
-html{
+body{
     background-color:#221e20;
     text-align: center;
     font-family:'Roboto Slab', serif;
@@ -7,19 +7,11 @@ html{
     color: #d8cbd2;
 }
 
-body {
-   
-}
 
-ul{
-    list-style: none;
-    
-    
-}
 
 .donation-button{
     border-radius: 5px;
-    background-color: turquoise;
+    background-color: #71C8E6;
     color: white;
     text-decoration: none;
     font-weight: 500;
@@ -27,11 +19,31 @@ ul{
 
 .donation-button, a:link, a:visited{
     text-decoration: none;
-    color: black;
+    color:inherit;
 }
 .donation-button, a:hover, a:active{
     text-decoration: none;
 }
+
+.partners-list{
+    list-style: none;
+    
+    
+}
+
+.other-associations{
+    background-color: white;
+    box-shadow:rgba(0,0,0,.5) 1px 2px 5px;
+    color: #221E20;
+}
+  .other-associations h2{
+      color: #221E20;
+  }
+
+.partners-item{
+    display: inline;
+}
+
 
 .section-titles{
     font-family:'Roboto Slab', serif;
@@ -41,11 +53,7 @@ ul{
 }
 
 .logos-associations{
-    max-height: 120px;
-    height: auto;
-    max-width: 160px;
-    width: auto; 
-    display: block;
-    float: left;
+    max-height: 90px;
+    max-width: 120px;
     
 }
