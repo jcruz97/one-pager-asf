@@ -1,0 +1,51 @@
+html{
+    background-color:#221e20;
+    text-align: center;
+    font-family:'Roboto Slab', serif;
+    font-size: 18px;
+    font-weight: 300;
+    color: #d8cbd2;
+}
+
+body {
+   
+}
+
+ul{
+    list-style: none;
+    
+    
+}
+
+.donation-button{
+    border-radius: 5px;
+    background-color: turquoise;
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.donation-button, a:link, a:visited{
+    text-decoration: none;
+    color: black;
+}
+.donation-button, a:hover, a:active{
+    text-decoration: none;
+}
+
+.section-titles{
+    font-family:'Roboto Slab', serif;
+    color: lightblue;
+    font-weight: 900;
+    font-size: 50;
+}
+
+.logos-associations{
+    max-height: 120px;
+    height: auto;
+    max-width: 160px;
+    width: auto; 
+    display: block;
+    float: left;
+    
+}
