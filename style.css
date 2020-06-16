@@ -13,6 +13,10 @@ body{
     margin: 0;
 }
 
+.uper-site{
+    position: relative;
+}
+
 
 
 .donation-button{
@@ -22,8 +26,10 @@ body{
     text-decoration: none;
     font-weight: 500;
     border: 1px solid grey ;
-    object-position: right;
-    text-align: right;
+}
+
+.button{
+    
 }
 
 .donation-button, a:link, a:visited{
