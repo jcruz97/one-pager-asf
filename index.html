@@ -5,7 +5,8 @@
  <head>
 
     <meta charset="utf-8">
-    <title> ASF- Aviation sans frontières Belgium</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <title> ASF - Aviation sans frontières Belgium</title>
     <link rel="stylesheet" href="style.css">
     <link rel="icon" type="image/png" href="images/favicon-32x32.png" sizes="32x32">
 
@@ -15,16 +16,17 @@
     <header class="uper-site">
 
       <h1>
-        <a class="link-site" href="https://asfbelgium.org/fr">
-          <img src="images/asf_logo_fr.png" alt="ASF Belgique - Aviation Sans Frontières Belgium">
+        <a class="link-site" href="https://asfbelgium.org/fr" target="_blank">
+          <img src="images/asf_logo_fr.png" alt="ASF Belgique - Aviation Sans Frontières Belgium"
+                sizes="140x80"  style="max-width:100%; height:auto;">
         </a>
       </h1>
-
-      <button class ="donation-button" type="button">
-        <a href="https://asfbelgium.org/fr/faites-un-don" target="_blank">Make a donation
-        </a>
-      </button>
-
+      <div class="button">
+        <button class ="donation-button" type="button">
+          <a href="https://asfbelgium.org/fr/faites-un-don" target="_blank">Make a donation
+           </a>
+        </button>
+      </div>
     </header>
 
     <section class="short-introduction">
@@ -32,17 +34,19 @@
         <h2 class="section-titles">We fly where nobody can</h2> 
 
         <div class="intro-text">
-            <p>We never get down if our help is required, bad weather or long flights can't tame our motivation.
+            <p>We never get down if our help is required, bad weather or long flights can't tame our motivation.<br>
                 Even if it's dangerous, we will head to people that need medical supplies, food or even books.<br>
                 We also carry members of other associations such as <em>the Red Cross</em> to reach places that can't be reached
                 by classic ways of transportation.
             </p>
+            <img id="plane" src="images/bgf2pano.jpg" max-width="100vm"
+             height="auto">
         </div>
 
     
-    </section>
+    
 
-    <section class="about-us">
+      <div class="about-us">
 
         <h2 class="section-titles">About us</h2>
 
@@ -57,11 +61,12 @@
             
           </p>
 
+      </div>
     </section>
 
     <section class="media">
 
-        <h2 class="section-titles">Media</h2>
+        <h2 class="section-titles">ASF on Youtube (<i>in French</i>)</h2>
 
         <iframe width="560" height="315" src="https://www.youtube.com/embed/ZPHCqcy0bWk" frameborder="0" 
           allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>

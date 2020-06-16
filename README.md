@@ -13,7 +13,7 @@ Useful links
 
 Date
 ----  
-06/2020  
+*Started* : 15/06/20
 *Deadline* : 19/06/20   
 
 Instructions
@@ -24,3 +24,5 @@ https://github.com/becodeorg/CRL-Woods-3.21/blob/master/LearningPath/01-Prairie/
 Don't be afraid to ask if you have an hesitation on how I work on this website or for any problem encountered.
 
 ### Done as part of the web-developper course @BeCode.
+
+Websites content are used for educationnal material, I do not owe it and will to use it on commercial purposes.
